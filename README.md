@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anasabbad
-- 👀 I’m interested in the world of coding
+- 👀 I’m interested in the world of ML and AI
 - 🌱 I’m currently learning  data science
 - 💞️ I’m looking to collaborate on projects in data science and machine learning
 - 📫 How to reach me ...@ anasabbd@gmail.com
